@@ -1,0 +1,10 @@
+[build-menu]
+FT_00_LB=LuaTeX -> PDF
+FT_00_CM=luatex
+FT_00_WD=
+FT_01_LB=LaTeX -> _PDF
+FT_01_CM=pdflatex --file-line-error-style "%f"
+FT_01_WD=
+EX_00_LB=V_iew PDF File
+EX_00_CM=evince "%e.pdf"
+EX_00_WD=

@@ -1,0 +1,28 @@
+[org/gtk/settings/file-chooser]
+window-position=(412, 134)
+window-size=(1096, 839)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=true
+show-size-column=true
+show-type-column=true
+sidebar-width=156
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+
+[org/mate/engrampa/general]
+unar-open-zip=false
+
+[org/mate/engrampa/listing]
+show-path=false
+name-column-width=250
+sort-method='name'
+sort-type='ascending'
+list-mode='as-folder'
+
+[org/mate/engrampa/ui]
+window-width=1026
+window-height=1014
+sidebar-width=200

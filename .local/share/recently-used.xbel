@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/dllz/.config/dllzwinmanager/gerardet46/dwm/config.h" added="2022-09-17T17:01:48.643628Z" modified="2022-09-17T17:01:48.724509Z" visited="2022-09-17T17:01:48.643628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-17T17:01:48.724506Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.config/dllzwinmanager/dllzdwm/dwm2/config.h" added="2022-09-17T17:07:57.310114Z" modified="2022-09-17T17:07:57.403510Z" visited="2022-09-17T17:07:57.310114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-17T17:07:57.403507Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.xinitrc" added="2022-09-17T22:53:38.685924Z" modified="2022-09-17T22:53:38.685927Z" visited="2022-09-17T22:53:38.685924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-17T22:53:38.685925Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.bash_profile" added="2022-09-17T22:54:29.149314Z" modified="2022-09-17T22:54:29.149318Z" visited="2022-09-17T22:54:29.149315Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-17T22:54:29.149317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.bash_history" added="2022-09-17T23:03:33.325749Z" modified="2022-09-17T23:03:33.325752Z" visited="2022-09-17T23:03:33.325749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-17T23:03:33.325751Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.config/user-dirs.dirs" added="2022-09-17T23:04:34.533247Z" modified="2022-09-17T23:04:34.533254Z" visited="2022-09-17T23:04:34.533247Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-17T23:04:34.533251Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.local/state/bash/history" added="2022-09-17T23:34:34.562706Z" modified="2022-09-17T23:34:34.562709Z" visited="2022-09-17T23:34:34.562706Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-17T23:34:34.562708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.bashrc" added="2022-09-17T23:34:44.167344Z" modified="2022-09-17T23:34:44.167347Z" visited="2022-09-17T23:34:44.167344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-17T23:34:44.167346Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.zshrc" added="2022-09-18T00:02:38.952500Z" modified="2022-09-18T00:02:38.952506Z" visited="2022-09-18T00:02:38.952501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-18T00:02:38.952504Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/Users/Admin/Desktop/myhome/Bin/.zshrc" added="2022-09-18T00:07:47.767180Z" modified="2022-09-18T00:07:47.767183Z" visited="2022-09-18T00:07:47.767180Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-18T00:07:47.767182Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.config/dllzwinmanager/dllzdwm/agnoster.zsh-theme" added="2022-09-18T00:10:05.373249Z" modified="2022-09-18T00:10:05.373254Z" visited="2022-09-18T00:10:05.373249Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-18T00:10:05.373252Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.config/zsh-themes/agnoster.zsh-theme" added="2022-09-18T00:11:03.598298Z" modified="2022-09-18T00:11:03.598306Z" visited="2022-09-18T00:11:03.598299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-18T00:11:03.598303Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/Downloads/Hack.zip" added="2022-09-18T00:13:14.655976Z" modified="2022-09-18T00:13:14.655990Z" visited="2022-09-18T00:13:14.655977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2022-09-18T00:13:14.655982Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.config/zsh-themes/bumblified.zsh-theme" added="2022-09-18T00:20:32.681688Z" modified="2022-09-18T00:20:32.681691Z" visited="2022-09-18T00:20:32.681688Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-18T00:20:32.681690Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/Downloads/librewolf_100.0-1_all.deb" added="2022-09-18T14:04:01.968873Z" modified="2022-09-18T14:04:01.968896Z" visited="2022-09-18T14:04:01.968878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2022-09-18T14:04:01.968885Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/Downloads/Release" added="2022-09-18T14:24:59.910002Z" modified="2022-09-18T14:24:59.910013Z" visited="2022-09-18T14:24:59.910004Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;librewolf-default %u&apos;" modified="2022-09-18T14:24:59.910007Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/artix.bashrc" added="2022-09-18T15:00:19.282272Z" modified="2022-09-18T15:00:19.282279Z" visited="2022-09-18T15:00:19.282273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-18T15:00:19.282276Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/Downloads/macOS%20Cursor%20Set.zip" added="2022-09-18T19:03:51.584665Z" modified="2022-09-19T14:23:54.847516Z" visited="2022-09-18T19:03:51.584667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;librewolf-default %u&apos;" modified="2022-09-18T19:03:51.584672Z" count="1"/>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2022-09-19T14:23:54.847513Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/.librewolf/3gxsvib0.default-default/chrome/userChrome.css" added="2022-09-19T14:07:53.623441Z" modified="2022-09-19T14:07:53.623445Z" visited="2022-09-19T14:07:53.623441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-09-19T14:07:53.623443Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dllz/Downloads/rarlinux-x64-612.tar.gz" added="2022-09-19T14:23:08.181334Z" modified="2022-09-19T14:23:18.662894Z" visited="2022-09-19T14:23:08.181335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;librewolf-default %u&apos;" modified="2022-09-19T14:23:08.181338Z" count="1"/>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2022-09-19T14:23:18.662892Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

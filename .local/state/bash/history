@@ -1,0 +1,251 @@
+nvim .config/dwmblocks/batt.sh 
+nvim .config/dwmblocks/cpu.sh 
+nvim .config/dwmblocks/memory.sh 
+sudo xbps-install -Ru 
+shopt -s
+history -a
+mkdir .local/state
+mkdir .local/state/bash
+history -a
+rm -r .bash_history
+shopt -s
+history -a
+-z "$PS1"
+bash -z "$PS1"
+[ -z "$PS1" ] && return
+htop
+xbps-query htop
+xbps-query -Rs htop
+sudo xbps-install -Ru htop
+htop
+xbps-install zsh
+sudo xbps-install zsh
+zsh
+zsh
+zsh
+xbps-install pcmanfm
+sudo xbps-install -Su pcmanfm
+pcmanfm 
+sudo xbps-install -Su lxapperance
+sudo xbps-install -Su lxappearance
+lxappearance 
+lsblk 
+sudo mount /dev/sdb5 /mnt
+zsh
+zsh
+zsh
+zash
+zsh
+pavucontrol 
+echo $n
+echo -e $n
+sudo xbps-install texlive
+xbps-query -Rs texlive
+sudo xbps-install Ru texlive
+sudo xbps-install -Ru texlive
+sudo xbps-install -Ru texlive-xetex
+sudo xbps-install -Ru texlive-XeTeX
+sudo xbps-install -Ru texlive-XeTeX texlive-LuaTex
+sudo xbps-install -Ru texlive-XeTeX texlive-LuaTeX
+sudo xbps-remove -RoO texlive-XeTeX texlive-LuaTeX
+sudo xbps-remove -RoO texlive-XeTeX texlive-LuaTeX texlive-science texlive-lang
+sudo xbps-install -Ru texlive-XeTeX texlive-LuaTeX texlive-science texlive-lang
+zsh
+exit
+chsh 
+exit
+fc-list | grep  nerd
+fc-list | grep -i nerd
+fc-list | grep -i nerd | grep -i awesome
+fc-list | grep -i nerd | grep -i awe
+fc-list | grep -i nerd | grep -i icon
+reset
+fc-list | grep -i nerd | grep -i icon
+fc-list | grep -i nerd | grep -i icon |less
+cd Downloads/
+sudo xbps-install -Su curl
+htop
+chsh bash
+chsh 
+cd ~ 
+nvim .bashrc 
+exit
+nvim .bashrc 
+exit
+nvim .bashrcartix
+rm -r .bashrcartix 
+nvim artix.bashrc
+rm -r .bashrc
+cp artix.bashrc .bashrc
+print -n "%{$bg%F{$CURRENT_BG}%}$SEGMENT_SEPARATOR%{$fg%}"
+zsh
+zash
+zsh
+zash
+zsh
+zash
+zsh
+zash
+zsh
+exit
+exit
+exit
+sudo sv status *
+sudo sv status /var/service/*
+xbps-remove -RoO openntpd
+sudo xbps-remove -RoO openntpd
+startx
+sudo reboot
+startx
+pavucontrol 
+pulseaudio 
+sudo sv /etc/sv/pulseaudio /var/service/
+sudo ln -s /etc/sv/pulseaudio /var/service/
+sudo rm /var/service/pulseaudio
+sudo ln -s /etc/sv/pulseaudio /var/service/
+sudo ln -s /etc/sv/openntpd/ /var/service/
+sudo sv status /var/service/*
+sudo reboot
+pacman -S xorg-xinit
+exit
+useradd 
+usermod
+usermod -aG wheel dllz
+exit
+visudo
+exit
+visudo 
+visudo 
+exit
+pacman -Ss nerd
+pacman -S ttf-nerd-fonts-symbols-2048-em
+pacman -Rns ttf-nerd-fonts-symbols-2048-em
+pacman -S ttf-nerd-fonts-symbols-2048-em-mono
+pacman -Ss ubuntu
+pacman -S $(pacman -Ss ubunt)u
+pacman -S $(pacman -Ss ubunt)
+pacman -S ttf-ubuntu-font-family
+cd .config/dllzwinmanager/gerardet46/dwmblocks/
+make install
+ls
+cd ..
+ls
+cd ..
+ls
+cd gerardet46/
+ls
+cd dwmblocks/
+ls
+ls .*
+ls -l .*
+ls -l *
+ls -l 
+cd ..
+ls dmenu/
+ls -l
+cd dmenu/
+ls
+ls -l
+pacman -S librewolf
+pacman -S firefox
+exit
+pulseaudio 
+exit
+nvim /etc/pacman.
+nvim /etc/pacman.conf 
+pacman -Scc && pacman -Syy
+sudo pacman -Rns firefox
+rm -r /home/dllz/files/.config/Code
+rm -r /home/dllz/files/.config/Code\ -\ OSS/
+rm -r /home/dllz/files/.config/dllzwinmanager/gerardet46/
+cd dwm
+rm -r /home/dllz/.config/Code
+rm -r /home/dllz/.config/Code\ -\ OSS/
+sv status *
+sv status /etc/services 
+sv status /etc/runit/runsvdir/default/*
+pacman -S librewolf
+pacman -Ss pulseaudio
+pacman -Ss pulseaudio-runit
+pacman -Rns librewolf
+pacman -S librewolf
+pacman -S pavucontrol pulseaudio-alsa
+pacman -Ss rtkit
+reboot
+startx
+pulseaudio 
+pulseaudio 
+pavucontrol 
+start-pulseaudio-x11 
+librewolf 
+sudo pacman -S ntfs-3g
+mount
+lsblk 
+mkdir mnt
+mount /dev/sdb5 /mnt
+mount /dev/sdb5 mnt
+sudo mount /dev/sdb5 /mnt
+thunar /mnt
+pacman -Ss vscode
+pacman -Ss os
+pacman -Ss os-
+pacman -Ss os-prober
+pacman -Ss code-o
+pacman -Ss code-oss
+alsamixer 
+pavucontrol 
+lsblk 
+mount /dev/sdc /mnt
+nvim ~/.config/pulse/default.pa
+nvim ~/.config/pulse/ 
+usermod 
+sudo usermod -dG audio dllz
+sudo usermod -rG audio dllz
+pacman -Ss pulse
+sudo pacman -S paprefs
+paprefs 
+paplay 
+sudo paplay 
+pulseaudio --daemonize=no --exit-idle-time=-1
+chown 
+chown --help
+sudo chown dllz *
+pulseaudio --daemonize=no --exit-idle-time=-1
+sudo chown dllz .config
+pulseaudio --daemonize=no --exit-idle-time=-1
+sudo chown dllz .*
+sudo chown dllz ~/.*
+sudo chown dllz ~/*
+sudo chown hR dllz ~
+sudo chown -hR dllz ~
+pulseaudio --daemonize=no --exit-idle-time=-1
+cd /mnt/Users/Admin/Desktop/dotfiles/.config/dllzwinmanager/gerardet46/dmenu/
+sudo make install
+cd /mnt/Users/Admin/Desktop/dotfiles/.config/dllzwinmanager/gerardet46/dwmblocks/
+sudo make install
+cd ~/.config/dllzwinmanager/
+sudo rm -r gerardet46/
+sudo cp /mnt/Users/Admin/Desktop/dotfiles/gerardet46 ~/.config/dllzwinmanager/
+sudo mv -r /mnt/Users/Admin/Desktop/dotfiles/gerardet46 ~/.config/dllzwinmanager/
+sudo mv -R /mnt/Users/Admin/Desktop/dotfiles/gerardet46 ~/.config/dllzwinmanager/
+sudo mv /mnt/Users/Admin/Desktop/dotfiles/gerardet46 ~/.config/dllzwinmanager/
+cat /root/.bashrc
+sudo cat /root/.bashrc
+cd /
+ls -l
+cd tmp/
+ls
+cd..
+cd ..
+ls
+ls -l
+/etc/bash/bashrc.d/
+cd /etc/bash/bashrc.d/
+ls
+sudo cat artix.bashrc 
+sudo pacman -Syu
+sudo reboot
+pavucontrol 
+startx
+sudo grub-mkconfig -o /boot/grub/grub.cfg 
+sudo reboot
